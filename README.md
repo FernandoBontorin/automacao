@@ -13,6 +13,6 @@ Created for a Proof-of-Concept goals, developed to works only in Windows 10
 ## Usage
 
 Put the jdk*.exe in dir /files and rename to jdk.exe and type in console (cmd or powershell)
-'''sh
+```sh
 chef-client --local-mode --runlist 'recipe[automacao]'
-'''
+```
